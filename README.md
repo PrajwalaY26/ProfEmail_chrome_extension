@@ -4,8 +4,6 @@ A lightweight Chrome extension that rewrites selected text into a professional, 
 
 I built this as a small learning project during my internship, where I often found myself rewriting emails to sound clearer and more polished. It helped me understand how Chrome extensions work and how to integrate APIs like OpenAI.
 
-> **Note:** This version uses a simulated response for demo purposes (no API key required in the current version).
-
 ---
 
 ## Features
