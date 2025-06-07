@@ -4,16 +4,12 @@ A lightweight Chrome extension that rewrites selected text into a professional, 
 
 I often found myself rewriting emails to sound clearer and more polished. It helped me understand how Chrome extensions work and how to integrate APIs like OpenAI.
 
----
-
 ## Features
 
 - ✅ Rewrites selected email text into a more professional tone  
 - ✅ Clean, minimal popup UI with a copy button  
 - ✅ Works on Gmail and similar mail platforms  
 - ✅ Fully self-contained and privacy-friendly (no tracking or logging)
-
----
 
 ## How to Install
 
@@ -23,8 +19,6 @@ I often found myself rewriting emails to sound clearer and more polished. It hel
 4. Click **Load unpacked** and select the extracted project folder.
 5. Go to Gmail or any webpage, select some text, then click the extension icon.
 6. The rewritten version will appear in the popup — click **Copy** to use it.
-
----
 
 ## What I Learned
 
