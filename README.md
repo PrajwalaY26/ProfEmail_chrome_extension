@@ -2,7 +2,7 @@
 
 A lightweight Chrome extension that rewrites selected text into a professional, human-like email using OpenAI.
 
-I built this as a small learning project during my internship, where I often found myself rewriting emails to sound clearer and more polished. It helped me understand how Chrome extensions work and how to integrate APIs like OpenAI.
+I often found myself rewriting emails to sound clearer and more polished. It helped me understand how Chrome extensions work and how to integrate APIs like OpenAI.
 
 ---
 
